@@ -15,7 +15,7 @@ namespace Devops
     {
         public Startup(IConfiguration configuration)
         {
-            // changes made again insitu
+            // changes made again insitu after push
             Configuration = configuration;
         }
 
